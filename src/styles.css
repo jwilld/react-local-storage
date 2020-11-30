@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+html{
+    color: rgb(49,49,49);
+    font-family: 'Fredoka One', cursive;
+}
+
+.input-container{
+    display: flex;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid grey;
+    margin-right: 20px;
+}
